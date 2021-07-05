@@ -58,7 +58,7 @@
 </span>
 <hr>
   <h3> GitHub Stats </h3>
-![](https://komarev.com/ghpvc/?username=samyakjain10)
+
 
 |<img src="https://github-readme-stats.vercel.app/api?username=samyakjain10&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=samyakjain10"/>|
 |---|---|
